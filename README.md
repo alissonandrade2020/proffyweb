@@ -39,7 +39,7 @@ Autor: Alisson de Andrade Araujo"
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
  
-  - [PROFFY - Encontre seu rofessor ou tenha aula online](https://proffyalissonandrade.netlify.app/)
+  - [PROFFY - Encontre seu Professor ou tenha aula online](https://proffyalissonandrade.netlify.app/)
 
  - [Covid-19 - Salgado de São Félix - PB](https://salgadodesaofelixcovid19.netlify.app/)
  
