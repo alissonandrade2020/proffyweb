@@ -10,7 +10,6 @@
     <img src="https://github.com/alissonandrade2020/proffyoficial/blob/master/fotos/fotos%20(3).png" width="650px" />
 </h1>
 
-
 ## Descrição:
 
 Autor: Alisson de Andrade Araujo"
@@ -59,7 +58,7 @@ Autor: Alisson de Andrade Araujo"
 
  - [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnative)
 
-- [Sistema de Achar Dev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
+- [Sistema de Achar TINDev's pelo GitHub - Node.js, React, React Native, Expo](https://alissonandradesistema.000webhostapp.com/reactnativetindev)
 
 - [Simulação de Loja Virtual](https://alissonandradesistema.000webhostapp.com/temadark)
  
